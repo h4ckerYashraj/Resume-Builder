@@ -2,7 +2,8 @@
 
 # Run in your Web Browser
 
-[Click here to open Resume Builder]([https://yashrajresumebuilder.netlify.app/])
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 
 ## Run Locally
 
