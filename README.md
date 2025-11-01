@@ -2,7 +2,7 @@
 
 # Run in your Web Browser
 
-[Click here to open Resume Builder]([www.google.com](https://yashrajresumebuilder.netlify.app/))
+[Click here to open Resume Builder]([https://yashrajresumebuilder.netlify.app/])
 
 ## Run Locally
 
